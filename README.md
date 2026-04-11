@@ -17,7 +17,7 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - Enjoy programming and build awesome stuff.
 - Silence makes big money.
 - Life's most persistent and urgent question is, "What are you doing for others?"
-- 在大地上行走，寻求属于自己的那份寄养。
+- 在大地上行走，寻求属于自己的那份给养。
 
  <picture>
     <source media="(prefers-color-scheme: dark)"
