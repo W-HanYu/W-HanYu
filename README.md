@@ -17,12 +17,7 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - Enjoy programming and build awesome stuff.
 - Silence makes big money.
 - Life's most persistent and urgent question is, "What are you doing for others?"
-- 以自己想要的方式过完一生，就是成功。
-
-<img width="40%" align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" /> 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
-
+- 在大地上行走，寻求属于自己的那份寄养。
 
  <picture>
     <source media="(prefers-color-scheme: dark)"
